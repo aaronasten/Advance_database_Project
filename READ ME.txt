@@ -1,0 +1,3 @@
+This folder contains datasets, SQL queries and visualisation for the Assessment of ADB coursework.
+
+ 
